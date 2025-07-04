@@ -4,6 +4,7 @@
     <title>Testing Chat</title>
 </head>
 <body>
+Testing. Hello!
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
